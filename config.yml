@@ -1,0 +1,6 @@
+---
+base-address: http://gutendex.com/
+api:
+  endpoint: books
+  
+  
